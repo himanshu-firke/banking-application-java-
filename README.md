@@ -401,9 +401,7 @@ public class InsufficientBalanceException extends Exception {
 - Include unit tests for new features
 - Update README for significant changes
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
